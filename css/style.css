@@ -1,0 +1,46 @@
+*{
+    background-color: #eeeeee;
+    font-family: fantasy;
+    padding: 5px;
+    margin: 2px;
+}
+
+a:hover{
+    color: violet;
+    
+}
+a.active{
+    color: red;
+    
+}
+li{
+    text-decoration: none;
+    display: inline-flex;
+    float: inline-start;
+    color: red;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: black;
+}
+table{
+    padding: 30px;
+    margin: 20px;
+    background-color: tan;
+    display: -moz-inline-stack;
+}
+input{
+    display: inline-block;
+    color: teal;
+    
+}
+li a{
+    text-decoration: none;
+    background-color: black;
+    padding: 15px 30px;
+    display: -moz-popup;
+    color: white;
+}
+hr{
+    border: none;
+    border: solid;
+}
